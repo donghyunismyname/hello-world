@@ -1,11 +1,6 @@
-# hello-world
-hello world project
+hello-world
+================
 
-
-I LOVE ICE CREAM
-
-I LOVE ICE CRE..........
-
-I LOVE ICE CREAM
-
-I LOVE ICE CREAM
+1. This is my first GitHub Repository
+2. And this is a README.md
+3. Is Markdown easy?
